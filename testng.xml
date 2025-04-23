@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/babus/IdeaProjects/LearningSeleniumApi/src/test/java/org/example/ex02_Selenium_basics/TestSelenium_08.java"><classes><class name="org.example.ex02_Selenium_basics.TestSelenium_08"><methods><include name="test_selenium_01"/></methods></class></classes></test></suite>
