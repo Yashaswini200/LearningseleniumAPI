@@ -18,6 +18,6 @@ public class lab39_rl_p2 extends TestCaseBoilerPlate {
         WebElement small=driver.findElement(with(By.tagName("small")).below(username));
 Thread.sleep(10000);
 driver.quit();
-
+//
     }
 }
