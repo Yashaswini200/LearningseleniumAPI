@@ -30,6 +30,7 @@ public class lab48_testingselenium {
                     System.out.println(cou_text);
                 }
             }
+            //
         }
     }
 
